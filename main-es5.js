@@ -376,7 +376,7 @@
                      *                        our real-time, cross-platform, sync engine — by setting `instant: true`.
                      */
                     pspdfkit__WEBPACK_IMPORTED_MODULE_2___default.a.load({
-                        baseUrl: "http://localhost:4200/assets/",
+                        baseUrl: "https://scipionh.github.io/new-gap/assets/",
                         container: "#" + id,
                         pdf: 'assets/nasa.pdf',
                         licenseKey: 'eXpjd2cIE-vQ0x--kRvoeNWUouDJrVu6EzzbAGRtz8KgOQWNWNI6Epc25W5wUxGnS2roHeIcBNFXV51oWwfWe4NjGZLt1oAJJgmPHUq1dXg9GMpJy7QSdblfsHrczVOOfHGDaHKSDG72w64YN_8PS_iomkjeFmGaJGOwOJSIxGLGAfzTPvHKsrUgNFF-y6mW5M0epS7119e7oV2OWuo8P0yg_o5YXYODrsqdhnRRt44W_BdR5xS_Lyg2c9IWxK1tvbuete8tx33vZGRWml_RrUx6WgNKGzypimokj1A38zuTP_b_VgZ-aP_nUDeX74pzjIHbWJQ0lHvFyIUmcKgEs3dmnWgD8LmLOppSMnQlHECzR9gPyAAwfZZOJvCTrtcJB6VA41OmimOI1muExAVtwjpfXU72g_vQQQZyvoc2W9EaMZps33vW1yRK_iQ31eHm',
